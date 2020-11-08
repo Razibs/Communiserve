@@ -12,6 +12,11 @@ Money is transferred using bank transfers which are not part of this app.  A lea
 Please note that the app was designed as part of a project for Advanced Mobile Application Course.
 It runs using the ionic framework through angular.
 
-![github-small](https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png?raw=true)
 
-<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="48">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
+
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
+
+
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
+
