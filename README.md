@@ -9,4 +9,7 @@ Community members can see all of the shopping lists(referred to as requests) who
 Once the request is fulfilled, the community member will be given points which can then later be redeemed for rewards(not implemented).
 Money is transferred using bank transfers which are not part of this app.  A leaderboard is used to show the community members who contributed the most for rewards and appreciation later. 
 
+Please note that the app was designed as part of a project for Advanced Mobile Application Course.
+It runs using the ionic framework through angular.
+
 ![alt text](https://static.toiimg.com/photo/72975551.cms)
