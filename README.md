@@ -13,14 +13,22 @@ Money is transferred using bank transfers which are not part of this app.  A lea
 It runs using the ionic framework through angular.</b>
 
 
-<div margin='0 auto'>
- <p float="left" >
-<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
+<h3>Login</h3>
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="400">
+
+<h3>Signup</h3>
+
+<p float="left" >
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-42-815_io.ionic.communiserve.png" width="200">
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-44-578_io.ionic.communiserve.png" width="200">
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-46-204_io.ionic.communiserve.png" width="200">
 </p>
-</div>
+
+<p float="left" >
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-14-46-025_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-16-49-615_io.ionic.communiserve.png" width="200">
+</p>
+
 
 
 
