@@ -48,6 +48,14 @@ Firebase email and google oAuth provider is used but note that signup via google
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-18-00-352_io.ionic.communiserve.png" width="200">
   
 </p>
+<h3>Viewing on and accepting a request</h3>
+<p float="left" >
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-19-53-209_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-19-55-246_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-19-59-941_io.ionic.communiserve.png" width="200">
+  
+</p>
+
 
 
 
