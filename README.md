@@ -10,14 +10,15 @@ Once the request is fulfilled, the community member will be given points which c
 Money is transferred using bank transfers which are not part of this app.  A leaderboard is used to show the community members who contributed the most for rewards and appreciation later. 
 
 <b>Please note that the app was designed as part of a project for Advanced Mobile Application Course.
-It runs using the ionic framework through angular.</b>
+It runs using the ionic framework through angular and information is stored on cloud firestore.</b>
 
 
-<h3>Login</h3>
+<h3>Login Page</h3>
+Firebase email and google oAuth provider is used but note that signup via google only works on desktop
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="400">
 
-<h3>Signup</h3>
 
+<h3>Signup Pages</h3>
 <p float="left" >
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-42-815_io.ionic.communiserve.png" width="200">
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-44-578_io.ionic.communiserve.png" width="200">
@@ -27,6 +28,25 @@ It runs using the ionic framework through angular.</b>
 <p float="left" >
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-14-46-025_io.ionic.communiserve.png" width="200">
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-16-49-615_io.ionic.communiserve.png" width="200">
+</p>
+
+<h3>Profile</h3>
+<p float="left" >
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-17-36-365_io.ionic.communiserve.png" width="200">
+  
+</p>
+
+<h3>Menu</h3>
+<p float="left" >
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-22-33-033_io.ionic.communiserve.png" width="200">
+  
+</p>
+
+<h3>Home Pages</h3>
+<p float="left" >
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-17-47-797_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-18-00-352_io.ionic.communiserve.png" width="200">
+  
 </p>
 
 
