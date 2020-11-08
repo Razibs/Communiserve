@@ -14,4 +14,3 @@ It runs using the ionic framework through angular.
 
 ![alt text](https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png?raw=true)
 
-![test image size](https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png?raw=true){:height="700px" width="400px"}
