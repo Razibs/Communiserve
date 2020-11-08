@@ -14,7 +14,7 @@ It runs using the ionic framework through angular and information is stored on c
 
 
 <h3>Login Page</h3>
-Firebase email and google oAuth provider is used but note that signup via google only works on desktop
+<p>Firebase email and google oAuth provider is used but note that signup via google only works on desktop</p>
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="400">
 
 
