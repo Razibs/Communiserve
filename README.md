@@ -61,6 +61,24 @@ Firebase email and google oAuth provider is used but note that signup via google
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-27-53-108_io.ionic.communiserve.png" width="200">  
 </p>
 
+<p float='left'>
+  <span>
+    <h3>History Page</h3>
+<p>
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-20-02-965_io.ionic.communiserve.png" width="200">  
+</p>
+  </span>
+  
+  
+  <span>
+  <h3>Leaderboards</h3>
+<p>
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-14-30-635_io.ionic.communiserve.png" width="200">  
+</p>
+</p>
+</span>
+
+
 <h3>History Page</h3>
 <p float="left" >
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-20-02-965_io.ionic.communiserve.png" width="200">  
@@ -71,16 +89,9 @@ Firebase email and google oAuth provider is used but note that signup via google
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-14-30-635_io.ionic.communiserve.png" width="200">  
 </p>
 
+<h3>Rewards Page(Incomplete)</h3>
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-16-39-733_io.ionic.communiserve.png" width="200"> 
 
-
-<div float='left' style='max-width:'30%'; margin:'2%''>
-  <h3>Rewards Page(Incomplete)</h3>
-  <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-16-39-733_io.ionic.communiserve.png" width="200"> 
-</div>
-<div  float='left' style='max-width:'30%'; margin:'2%''>
-  <h3>Rewards Page(Incomplete)</h3>
-  <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-16-39-733_io.ionic.communiserve.png" width="200"> 
-</div>
 
 
 
