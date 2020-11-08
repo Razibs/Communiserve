@@ -13,10 +13,12 @@ Please note that the app was designed as part of a project for Advanced Mobile A
 It runs using the ionic framework through angular.
 
 
-<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
 
+<p float="left">
 <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-42-815_io.ionic.communiserve.png" width="200">
+<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-578_io.ionic.communiserve.png" width="200">
+  <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-204_io.ionic.communiserve.png" width="200">
+</p>
 
-
-<img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-16-12-40-271_io.ionic.communiserve.png" width="200">
 
