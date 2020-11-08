@@ -1,5 +1,5 @@
 # Communiserve
-<b>An app created for people to help get groceries for each other during COVID 19.</b>
+<b>An app created for people to help each other get groceries during COVID 19.</b>
 
 <b>Download Link: </b> https://drive.google.com/u/0/uc?id=1EO4a3ETphU6TsXC3ApqUj0ZubHNS4ZSL&export=download
 
