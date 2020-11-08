@@ -73,11 +73,11 @@ Firebase email and google oAuth provider is used but note that signup via google
 
 <div>
   <div float='left'>
-    <h3>Rewards Page(Incomplete)</h3>
+    <h3 display='inline-block'>Rewards Page(Incomplete)</h3>
     <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-16-39-733_io.ionic.communiserve.png" width="200"> 
   </div>
     <div float='left'>
-    <h3>Rewards Page(Incomplete)</h3>
+    <h3 display='inline-block'>Rewards Page(Incomplete)</h3>
     <img src="https://github.com/Razibs/Communiserve/blob/main/screenshots/Screenshot_2020-11-08-18-16-39-733_io.ionic.communiserve.png" width="200"> 
   </div>
 </div>
